@@ -1,0 +1,8 @@
+.rubriker{
+    color: aqua;
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(110deg, red, yellow, rgb(43, 153, 43), blue);
+}
