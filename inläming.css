@@ -1,8 +1,14 @@
 .rubriker,a{
     color: rgb(208, 208, 208);
     text-align: center;
-    margin: 100px;
     text-decoration: none;
+    font-family: 'Great Vibes', cursive;
+}
+
+
+
+h3{
+    margin-top: 11%;
 }
 
 a:hover{
@@ -12,4 +18,15 @@ a:hover{
 
 body{
     background-color:rgb(69, 69, 69) 
+}
+
+.ram{
+    position: relative;
+    margin-top: auto;
+    width: auto;
+    height: auto;
+    border: 5px solid rgb(208, 208, 208);
+    padding: 250px;
+    margin: 30px;
+    text-align: center;
 }
