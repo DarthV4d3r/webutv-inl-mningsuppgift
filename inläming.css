@@ -5,10 +5,19 @@
     font-family: 'Great Vibes', cursive;
 }
 
-
+p{
+    color: rgb(208, 208, 208);
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    position: relative;
+    top: 32%;
+    margin-top: 4%;
+    font-size: 130%;
+    
+}
 
 h3{
-    margin-top: 11%;
+    margin-top: 10%;
 }
 
 a:hover{
@@ -23,10 +32,25 @@ body{
 .ram{
     position: relative;
     margin-top: auto;
-    width: auto;
-    height: auto;
+    width: 99%;
+    height: 88%;
     border: 5px solid rgb(208, 208, 208);
-    padding: 250px;
-    margin: 30px;
     text-align: center;
+}
+
+.ram2{
+    position: absolute;
+    left: 17%;
+    width: 65%;
+    height: 130%;
+}
+
+.knapp{
+    position: absolute;
+    top: 8%;
+    left: 5%;
+    font-family: 'Great Vibes', cursive;
+    text-decoration: none;
+    color: rgb(208, 208, 208);
+    font-size: 110%;
 }
